@@ -1,4 +1,6 @@
 # [Codecov][1] XTend Example
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-xtend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-xtend?ref=badge_shield)
+
 ## Guide
 ### Travis Setup
 
@@ -47,3 +49,7 @@ after_success:
 We are happy to help if you have any questions. Please contact email our Support at [support@codecov.io](mailto:support@codecov.io)
 
 [1]: https://codecov.io/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-xtend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-xtend?ref=badge_large)
